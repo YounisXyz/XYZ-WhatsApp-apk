@@ -1,5 +1,5 @@
 # XYZ WhatsApp Mod apk
-Facebook Lite Plus is lite weight android app for login into Facebook accounts with many featurs.
+XYZ WhatsApp isandroid app with many featurs.
 
 - [DESCRIPTION](#description)
 - [FEATURES](#features)
