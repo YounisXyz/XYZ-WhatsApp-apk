@@ -1,5 +1,5 @@
 # XYZ WhatsApp Mod apk
-XYZ WhatsApp isandroid app with many featurs.
+XYZ WhatsApp is android app with many featurs.
 
 - [DESCRIPTION](#description)
 - [FEATURES](#features)
